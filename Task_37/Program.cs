@@ -49,5 +49,3 @@ Console.Write(" -> ");
 int[] newArray = PairMultiplyArray(array);
 PrintArray(newArray);
 Console.WriteLine();
-
-
